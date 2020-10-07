@@ -234,7 +234,7 @@ body {
     width: 15px;
     height: 15px;
     border-radius: 15px;
-    top: 190.32px;
+    top: 188px;
     left: 206px;
     background: #B62E3C;
   }
@@ -244,7 +244,7 @@ body {
     width: 15px;
     height: 15px;
     border-radius: 15px;
-    top: 190.32px;
+    top: 188px;
     left: 226px;
     background: black;
   }
@@ -254,7 +254,7 @@ body {
     width: 15px;
     height: 15px;
     border-radius: 15px;
-    top: 190.32px;
+    top: 188px;
     left: 246px;
     background: #C4C4C4;
   }
@@ -264,7 +264,7 @@ body {
     width: 15px;
     height: 15px;
     border-radius: 15px;
-    top: 190.32px;
+    top: 188px;
     left: 266px;
     background: #FDB431;
   }
@@ -391,28 +391,28 @@ body {
     width: 20px;
     height: 20px;
     left: 171.34px;
-    top: 293.8px;
+    top: 292.8px;
   }
 
   .product1_color2 {
     width: 20px;
     height: 20px;
     left: 196.34px;
-    top: 293.8px;
+    top: 292.8px;
   }
 
   .product1_color3 {
     width: 20px;
     height: 20px;
     left: 221.34px;
-    top: 293.8px;
+    top: 292.8px;
   }
 
   .product1_color4 {
     width: 20px;
     height: 20px;
     left: 246.34px;
-    top: 293.8px;
+    top: 292.8px;
   }
 
   .product1_color1:hover,
@@ -471,7 +471,7 @@ body {
     width: 20px;
     height: 20px;
     left: 171.34px;
-    top: 293.8px;
+    top: 292.8px;
     border-radius: 15px;
     background: #C4C4C4;
   }
@@ -481,7 +481,7 @@ body {
     width: 20px;
     height: 20px;
     left: 196.34px;
-    top: 293.8px;
+    top: 292.8px;
     border-radius: 15px;
     background: #E29D69;
   }
@@ -491,7 +491,7 @@ body {
     width: 20px;
     height: 20px;
     left: 221.34px;
-    top: 293.8px;
+    top: 292.8px;
     border-radius: 15px;
     background: #B62E3C;
   }
@@ -501,7 +501,7 @@ body {
     width: 20px;
     height: 20px;
     left: 246.34px;
-    top: 293.8px;
+    top: 292.8px;
     border-radius: 15px;
     background: #FDB431;
   }
@@ -656,9 +656,10 @@ body {
     color: white;
     border-radius: 50%;
     background: black;
-    width: 13.47px;
+    width: 14.92px;
     height: 14.92px;
     text-align: center;
+    padding-top: 3px;
     margin-left: 2px;
     font-size: 10px;
     line-height: 10px;
@@ -766,30 +767,30 @@ body {
 
   .product1_color1 {
     width: 6.33px;
-    height: 7px;
+    height: 6.33px;
     left: 148.31px;
-    top: 224.86px;
+    top: 222.36px;
   }
 
   .product1_color2 {
     width: 6.33px;
-    height: 7px;
+    height: 6.33px;
     left: 161.88px;
-    top: 224.86px;
+    top: 222.36px;
   }
 
   .product1_color3 {
     width: 6.33px;
-    height: 7px;
+    height: 6.33px;
     left: 177.25px;
-    top: 224.86px;
+    top: 222.36px;
   }
 
   .product1_color4 {
     width: 6.33px;
-    height: 7px;
+    height: 6.33px;
     left: 190.82px;
-    top: 224.86px;
+    top: 222.36px;
   }
 
   .product1_color1:hover,
@@ -843,28 +844,28 @@ body {
     width: 6.33px;
     height: 7px;
     left: 148.31px;
-    top: 224.86px;
+    top: 222.36px;
   }
 
   .product2_color2 {
     width: 6.33px;
-    height: 7px;
+    height: 6.33px;
     left: 161.88px;
-    top: 224.86px;
+    top: 222.36px;
   }
 
   .product2_color3 {
     width: 6.33px;
-    height: 7px;
+    height: 6.33px;
     left: 177.25px;
-    top: 224.86px;
+    top: 222.36px;
   }
 
   .product2_color4 {
     width: 6.33px;
-    height: 7px;
+    height: 6.33px;
     left: 190.82px;
-    top: 224.86px;
+    top: 222.36px;
   }
 
   .product2_color1:hover,
@@ -931,9 +932,9 @@ body {
   .product3_color1 {
     position: absolute;
     width: 6.33px;
-    height: 7px;
+    height: 6.33px;
     left: 148.31px;
-    top: 224.86px;
+    top: 222.36px;
     border-radius: 15px;
     background: #C4C4C4;
   }
@@ -941,9 +942,9 @@ body {
   .product3_color2 {
     position: absolute;
     width: 6.33px;
-    height: 7px;
+    height: 6.33px;
     left: 161.88px;
-    top: 224.86px;
+    top: 222.36px;
     border-radius: 15px;
     background: #E29D69;
   }
@@ -951,9 +952,9 @@ body {
   .product3_color3 {
     position: absolute;
     width: 6.33px;
-    height: 7px;
+    height: 6.33px;
     left: 177.25px;
-    top: 224.86px;
+    top: 222.36px;
     border-radius: 15px;
     background: #B62E3C;
   }
@@ -961,9 +962,9 @@ body {
   .product3_color4 {
     position: absolute;
     width: 6.33px;
-    height: 7px;
+    height: 6.33px;
     left: 190.82px;
-    top: 224.86px;
+    top: 222.36px;
     border-radius: 15px;
     background: #FDB431;
   }
@@ -1021,9 +1022,9 @@ body {
   .product4_color1 {
     position: absolute;
     width: 6.33px;
-    height: 7px;
+    height: 6.33px;
     left: 148.31px;
-    top: 224.86px;
+    top: 222.36px;
     border-radius: 15px;
     background: #C4C4C4;
   }
@@ -1031,9 +1032,9 @@ body {
   .product4_color2 {
     position: absolute;
     width: 6.33px;
-    height: 7px;
+    height: 6.33px;
     left: 161.88px;
-    top: 224.86px;
+    top: 222.36px;
     border-radius: 15px;
     background: #E29D69;
   }
@@ -1041,9 +1042,9 @@ body {
   .product4_color3 {
     position: absolute;
     width: 6.33px;
-    height: 7px;
+    height: 6.33px;
     left: 177.25px;
-    top: 224.86px;
+    top: 222.36px;
     border-radius: 15px;
     background: #B62E3C;
   }
@@ -1051,9 +1052,9 @@ body {
   .product4_color4 {
     position: absolute;
     width: 6.33px;
-    height: 7px;
+    height: 6.33px;
     left: 190.82px;
-    top: 224.86px;
+    top: 222.36px;
     border-radius: 15px;
     background: #FDB431;
   }
